@@ -51,6 +51,10 @@ Articles are collected using News-please [@Hambourg2017] and are given with the 
 
 To be published at UnImplicit2024@EACL2024
 
+# License
+
+This dataset and associated code in the repository are distributed under the CC BY-NC 4.0 license.
+
 # References
 
 [@Hamborg2017] Hamborg, Felix and Meuschke, Norman and Breitinger, Corinna and Gipp, Bela. \news-please: A Generic News Crawler and Extractor\, 2017, Proceedings of the 15th International Symposium of Information Science
