@@ -47,6 +47,9 @@ Articles are collected using News-please [@Hambourg2017] and are given with the 
 | Ukrainian |   439
 | **Total** |   18 729
 
+# Cite us
+
+To be published at UnImplicit2024@EACL2024
 
 # References
 
