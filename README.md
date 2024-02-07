@@ -49,7 +49,7 @@ Articles are collected using News-please [@Hambourg2017] and are given with the 
 
 # Cite us
 
-To be published at UnImplicit2024@EACL2024
+Faye, G., Icard, B., Casanova, M., Chanson, J., Maine, F., Bancilhon, F., Gadek, G., Gravier, G., & Égré, P. (2024). Exposing propaganda: an analysis of stylistic cues comparing human annotations and machine classification, In EACL Proceedings of the Third Workshop on Understanding Implicit and Underspecified Language (UnImplicit 2024).
 
 # License
 
