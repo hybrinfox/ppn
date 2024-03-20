@@ -49,7 +49,36 @@ Articles are collected using News-please [@Hambourg2017] and are given with the 
 
 # Cite us
 
-Géraud Faye, Benjamin Icard, Morgane Casanova, Julien Chanson, François Maine, François Bancilhon, Guillaume Gadek, Guillaume Gravier, and Paul Égré. 2024. Exposing propaganda: an analysis of stylistic cues comparing human annotations and machine classification. In Proceedings of the Third Workshop on Understanding Implicit and Underspecified Language, pages 62–72, Malta. Association for Computational Linguistics.
+```
+
+@inproceedings{faye-etal-2024-exposing,
+    title = "Exposing propaganda: an analysis of stylistic cues comparing human annotations and machine classification",
+    author = "Faye, G{\'e}raud  and
+      Icard, Benjamin  and
+      Casanova, Morgane  and
+      Chanson, Julien  and
+      Maine, Fran{\c{c}}ois  and
+      Bancilhon, Fran{\c{c}}ois  and
+      Gadek, Guillaume  and
+      Gravier, Guillaume  and
+      {\'E}gr{\'e}, Paul",
+    editor = "Pyatkin, Valentina  and
+      Fried, Daniel  and
+      Stengel-Eskin, Elias  and
+      Stengel-Eskin, Elias  and
+      Liu, Alisa  and
+      Pezzelle, Sandro",
+    booktitle = "Proceedings of the Third Workshop on Understanding Implicit and Underspecified Language",
+    month = mar,
+    year = "2024",
+    address = "Malta",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.unimplicit-1.6",
+    pages = "62--72",
+}
+
+```
+
 
 # License
 
